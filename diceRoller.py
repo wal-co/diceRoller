@@ -51,7 +51,7 @@ def user_roll():
         total_rolled = 0 
         for i in range(num_die):
             total_rolled += roll_dice()
-        print("\nYou rolled a {0} dice for a total of {1}.".format(num_die, total_rolled))
+        print("\nYou rolled {0} dice for a total of {1}.".format(num_die, total_rolled))
     print("\nThank you for using our dice roller!")
     print("\nFeel free to use our dice roller any time!")
 
