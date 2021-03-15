@@ -1,6 +1,6 @@
 # diceRoller
 
-You can use this script to roll any number of any non standard die.
+You can use this script to roll any number of any standard (d4, d6, d10, etc) or non-standard die (you wanna roll a d19? Go for it!)
 
 Running the code in a command line should allow you to choose any number of dice and any type of die.
 
