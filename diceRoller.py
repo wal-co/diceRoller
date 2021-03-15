@@ -9,6 +9,8 @@ Created on Thu Mar 11 17:52:07 2021
 ToDOs
 1) Limit to standard die
 2) When showing the user the final total, show them how many of EACH dice they rolled
+3)Catch errors. Terminal will throw an error if you don't type '' around your
+    input. Users won't like that.
 '''
 
 import random
